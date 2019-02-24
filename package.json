@@ -1,0 +1,15 @@
+{
+  "name": "yarn-workspaces-webpack-typescript-preact-starter",
+  "description": "A Yarn Workspaces + Webpack + TypeScript + Preact Starter Kit 🔰",
+  "version": "1.0.0",
+  "private": true,
+  "workspaces": [
+    "packages/*"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hoox/yarn-workspaces-webpack-typescript-preact-starter.git"
+  },
+  "author": "hoox",
+  "license": "MIT"
+}
